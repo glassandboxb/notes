@@ -19,3 +19,6 @@ Let's GO
 Second, use time management techniques to your advantage. Block out time in the day or week for specific tasks so that they are not interrupted by other responsibilities. Using a scheduling tool like Todoist or Trello can help keep you organized and on track. 
  	
 Lastly, stay organised and maintain a clean coding environment. Keep your code organized, documented, version controlled, etc. Following good coding practices will not only make your life easier now but also in maintaining and expanding your project in future.
+
+# 2023-11-20
+- "Today's programming wisdom is to focus on writing clean, maintainable code. It's easy to get caught up in solving the immediate problem at hand, but taking the time to write code that is easy to understand and modify will save you time and headaches in the long run. Remember, code is read far more often than it is written, so make it readable!"
