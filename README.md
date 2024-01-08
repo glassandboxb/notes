@@ -233,3 +233,13 @@ Another important aspect of programming wise is problem-solving skills. When fac
 1. Prioritize tasks: When you are working on a project, it is essential to determine which tasks are the most important and which can be completed later. By prioritizing your tasks in this way, you can ensure that you focus on the critical aspects of the project and not get sidetracked by less significant details. Use a task management tool, such as Trello or Asana, to keep track of your priorities and make sure you stay on track. 
  2. Plan ahead: Planning is crucial when it comes to programming. You should always have a clear idea of what you want to achieve and how you will go about achieving it. Break down your project into smaller, manageable tasks and create a timeline for each task. Then, follow that timeline to make certain that your code is completed on time and within budget. Planning ahead will also help to prevent last-minute panic and stress.  
 3. Stay organized: A clean and organized codebase is a happy code base. Make sure that all ofyour code, both commented and uncommented, is well-organized and easy to navigate. Follow coding conventions and use version control systems, like Git,to keep your work organized and trackable. Organized code will not only make your life easier as a programmer but willalso make it easier for others to understand and contribute to your projects.
+
+# 2024-01-08
+- "Today's programming wisdom is to embrace the SOLID principles. These five fundamental design guidelines - Single Responsibility, Open-Closed, Liskov Substitution, Interface Segregation, and Dependency Inversion - encourage writing clean, maintainable, and scalable code. Always remember: a program that's easy to understand, modify, and extend today will save you time and reduce bugs tomorrow." 
+
+In detail:
+1. **Single Responsibility Principle (SRP)**: A class should have only one reason to change, meaning it should have only one primary responsibility.
+2. **Open-Closed Principle (OCP)**: Software entities like classes, modules, and functions should be open for extension but closed for modification.
+3. **Liskov Substitution Principle (LSP)**: Derived classes must be substitutable for their base classes without altering the correctness of the program.
+4. **Interface Segregation Principle (ISP)**: Clients should not be forced to depend on methods they do not use; instead, interfaces should be broken down into smaller, more specific ones.
+5. **Dependency Inversion Principle (DIP)**: High-level modules should not depend on low-level modules; both should depend on abstractions. Abstractions should not depend on details; rather, details should depend on abstractions.
