@@ -329,3 +329,13 @@ Use version control systems, such as Git, to keep track of your code and collabo
 
 Second, planning ahead is crucial for success. Before starting a new project or undertaking a large task, take the time to plan out the steps needed to complete it. Break down the project into smaller, manageable tasks and create a timeline for each one. Doing so will make it easier to stay on track and avoid getting lost in the details. 
  - 来自helpful assistant
+
+# 2024-01-28
+- "Today's programming wisdom: 'Simplicity is the ultimate sophistication.' — Leonardo da Vinci. Always strive to write clear, concise, and maintainable code that solves the problem at hand without unnecessary complexity. Remember, tomorrow's you (or someone else) will thank you for it." 
+
+In practice, this means:
+1. Write modular code that follows the Single Responsibility Principle.
+2. Optimize for readability; a well-structured program can often be more efficient in the long run than an initially optimized but hard-to-understand one.
+3. Use built-in language features and libraries effectively to avoid reinventing the wheel.
+4. Comment your code, but aim to make the comments redundant with clear, self-explanatory code.
+5. Test early, test often, and embrace debugging as a learning process to improve your code's quality and simplicity."
