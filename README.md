@@ -430,3 +430,10 @@ Next, planning ahead is crucial. Before beginning a new project or tackling a co
 
 Second, planning ahead is crucial. Before starting a new project or undertaking a large task, take the time to plan out your approach. Break the task down into smaller, manageable steps, then allocate time for each step. Planning ahead will ensure you have a clear roadmap and avoid getting lost in the code. 
  - 来自NLP
+
+# 2024-02-18
+- Today's programming wisdom is to prioritize tasks, plan ahead, and stay organized. This will help you to be more efficient and productive in your coding endeavors.
+
+1. Prioritize tasks: When you are working on a project, it is essential to determine which tasks are the most important and which can be completed later. By prioritizing your tasks in this way, you can ensure that you focus on the critical aspects of the project and not get sidetracked by less significant details. Use a task management tool, such as Trello or Asana, to help keep track of your priorities. 
+ 2. Plan ahead: Planning is crucial when it comes to programming. You should always have a clear idea of what you want to achieve and how you will go about achieving it. Creating a detailed plan will ensure you have all the necessary information and resources to complete the task. When planning, consider the potential challenges and roadblocks you may encounter and plan for them accordingly.  
+3. Stay organized: A clean and organized codebase is a joy to work with. It makes it easier to find and fix errors, add new features, or make changes. To stay organised, use version control systems, like Git, regularly commit your code, follow coding conventions, keep your project structure tidy, document your work, comment your codes, etc. Organized coding habits will not only make your life easier but also help in maintaining a clean, readable, maintainable, scalable, testable code.
