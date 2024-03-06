@@ -507,3 +507,15 @@ Next, planning ahead is crucial. Before starting a new project or undertaking a 
 
 # 2024-03-05
 - "Keep it simple, stupid!"
+
+# 2024-03-06
+- "Today's programming wisdom is to embrace the principle of 'Keep It Simple, Stupid' (KISS). Simplicity in code allows for easier maintenance, better collaboration, and reduces the likelihood of bugs. Write clear, concise, and readable code that accomplishes the task at hand without unnecessary complexity. Remember that code is read far more often than it is written, so strive for elegance and clarity over premature optimization or premature abstraction." 
+
+In addition, always consider the SOLID principles for object-oriented design, which are:
+1. Single Responsibility Principle: A class should have only one reason to change.
+2. Open/Closed Principle: Software entities should be open for extension but closed for modification.
+3. Liskov Substitution Principle: Derived classes must be substitutable for their base classes.
+4. Interface Segregation Principle: Clients should not be forced to depend on methods they do not use.
+5. Dependency Inversion Principle: High-level modules should not depend on low-level modules; both should depend on abstractions.
+
+Lastly, automate testing and continuous integration as much as possible to catch errors early and ensure your code remains functional over time."
